@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.22b6ffb6.chunk.css",
+    "main.js": "./main.f0f0ca06ae2fd7978cda.bundle.js",
+    "main.css.map": "./static/css/main.22b6ffb6.chunk.css.map",
+    "main.js.map": "./main.f0f0ca06ae2fd7978cda.bundle.js.map",
+    "runtime~main.js": "./runtime~main.f0f0ca06ae2fd7978cda.bundle.js",
+    "runtime~main.js.map": "./runtime~main.f0f0ca06ae2fd7978cda.bundle.js.map",
+    "vendors~main.js": "./vendors~main.f0f0ca06ae2fd7978cda.bundle.js",
+    "vendors~main.js.map": "./vendors~main.f0f0ca06ae2fd7978cda.bundle.js.map",
+    "iframe.html": "./iframe.html",
+    "precache-manifest.69770b9e377c15c57f1aca76866b7aad.js": "./precache-manifest.69770b9e377c15c57f1aca76866b7aad.js",
+    "service-worker.js": "./service-worker.js",
+    "static/media/align-right.b6001762.svg": "./static/media/align-right.b6001762.svg",
+    "static/media/colon.54d8dbc0.svg": "./static/media/colon.54d8dbc0.svg",
+    "static/media/log-out.e0c567bb.svg": "./static/media/log-out.e0c567bb.svg",
+    "static/media/meh-face.aeb66b10.svg": "./static/media/meh-face.aeb66b10.svg",
+    "static/media/remove-fullscreen.b9d973b0.svg": "./static/media/remove-fullscreen.b9d973b0.svg",
+    "static/media/set-fullscreen.11ebfce3.svg": "./static/media/set-fullscreen.11ebfce3.svg",
+    "vendors~main.f0f0ca06ae2fd7978cda.bundle.js.LICENSE.txt": "./vendors~main.f0f0ca06ae2fd7978cda.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.f0f0ca06ae2fd7978cda.bundle.js",
+    "vendors~main.f0f0ca06ae2fd7978cda.bundle.js",
+    "static/css/main.22b6ffb6.chunk.css",
+    "main.f0f0ca06ae2fd7978cda.bundle.js"
+  ]
+}
